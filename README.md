@@ -8,6 +8,6 @@ Strong DDoS Attack
  bash setup.sh
  python3 DDoS.py</code>
 ### Disclaimer
-This script was created in order to test your site.
+<b>This script was created in order to test your site.
 The author is not responsible for your actions.
-You do everything at your own peril and risk.
+You do everything at your own peril and risk.</b>
