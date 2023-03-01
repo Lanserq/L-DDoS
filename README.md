@@ -1,7 +1,7 @@
 # L-DDoS
 Strong DDoS Attack
 # Installing (Windows/Linux/MacOs/Termux):
-<script type="<MIME-тип>">
+<script type="<Python>">
   apt-get update -y
 apt-get install git
 git clone https://github.com/Lanserq/L-DDoS
