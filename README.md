@@ -7,7 +7,7 @@ Strong DDoS Attack
  cd L-DDoS
  bash setup.sh
  python3 DDoS.py</code>
-### One Line Installation
+### One Line Installation:
 <code>apt-get update -y && apt-get install git && git clone https://github.com/Red-company/RDDoS_Tool.git && cd L-DDoS && bash setup.sh && python3 DDoS.py</code
 ### Disclaimer
 <b>This script was created in order to test your site.
