@@ -2,10 +2,10 @@
 Strong DDoS Attack
 # Installing (Windows/Linux/MacOs/Termux):
 <code>
-apt-get update -y
-apt-get install git
-git clone https://github.com/Lanserq/L-DDoS
-cd DDoS
-bash setup.sh
-python3 DDoS.py
+ apt-get update -y
+ apt-get install git
+ git clone https://github.com/Lanserq/L-DDoS
+ cd DDoS
+ bash setup.sh
+ python3 DDoS.py
 </code>
