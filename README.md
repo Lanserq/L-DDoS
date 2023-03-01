@@ -1,4 +1,4 @@
-# L-DDoS fire
+# L-DDoS
 Strong DDoS Attack
 # Installing (Windows/Linux/MacOs/Termux):
 <code>apt-get update -y
